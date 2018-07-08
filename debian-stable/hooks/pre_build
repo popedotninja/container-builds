@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -x
+
+echo running pre_build
+echo 'POTATOOOOOO!!!'
