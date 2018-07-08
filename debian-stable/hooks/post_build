@@ -2,4 +2,5 @@
 
 set -x
 
-echo pwd
+pwd
+ls
